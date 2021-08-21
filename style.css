@@ -1,7 +1,26 @@
+* {
+    background-color: rgb(166, 223, 250);
+}
+
 h1 {
     color:brown;
 }
 
 h2 {
     color:chartreuse;
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 32px;
+}
+
+p {
+    font-size: 24px;
+    color: red;
+}
+
+footer {
+    color: darkorange;
+    font-size: 24px;
 }
